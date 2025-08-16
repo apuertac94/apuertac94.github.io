@@ -1,35 +1,23 @@
-/* Container for each paper */
-.paper {
-  margin-bottom: 1.5rem;
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 1rem;
-}
-
-/* Title and toggle container */
-.paper-title {
-  display: flex;
-  align-items: center;
-  cursor: pointer;
-  font-weight: bold;
-  font-size: 1.1rem;
-}
-
-/* Arrow style */
-.arrow {
-  display: inline-block;
-  margin-right: 0.5rem;
-  transition: transform 0.3s ease;
-}
-
-/* Rotated arrow when abstract is visible */
-.arrow.open {
-  transform: rotate(90deg);
-}
-
-/* Abstract text */
 .abstract {
   display: none;
-  margin-top: 0.5rem;
-  font-style: italic;
-  color: #555;
+  margin-top: 0.5em;
 }
+
+.abstract.open {
+  display: block;
+}
+
+.arrow-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1em;
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+}
+
+.arrow-toggle .arrow {
+  font-weight: bold;
+}
+
