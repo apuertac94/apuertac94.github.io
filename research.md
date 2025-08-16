@@ -16,7 +16,7 @@ with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
 **Promoting academic honesty: a Bayesian causal analysis of an integrity pilot campaign**<br>
 with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
 [Education Economics (2022)](https://www.tandfonline.com/doi/full/10.1080/09645292.2021.2006609?scroll=top&needAccess=true)<br>
-Working paper version available [here](promote_honesty_2022.pdf){:target="_blank" download="promote_honesty_2022.pdf"}
+<a href="promote_honesty_2022.pdf" target="_blank" download="promote_honesty_2022.pdf" class="download-button">Download</a><br>  
 
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
