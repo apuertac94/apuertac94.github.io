@@ -27,11 +27,15 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}<br>
 <div class="arrow-toggle" onclick="toggleAbstract(this)">
-  <span class="arrow">►</span> Abstract
+  <span class="arrow-container">
+    <span class="arrow">►</span>
+  </span>
+  Abstract
 </div>
-<div class="abstract-content" style="display:none; margin-left: 1em;">
-  This paper studies how family background influences economic mobility in the US. Using novel data and robust identification strategies, we find that X, Y, and Z significantly affect intergenerational outcomes.
+<div class="abstract" style="display:none;">
+  Your abstract text here.
 </div>
+
 <script>
 function toggleAbstract(el) {
   const content = el.nextElementSibling;
