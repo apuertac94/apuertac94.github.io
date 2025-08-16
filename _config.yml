@@ -16,3 +16,4 @@ minima:
 footer_content: |
   <p><a href="mailto:{{ site.email }}">{{ site.email }}</a> | 
   <a href="https://github.com/{{ site.github_username }}">GitHub</a></p>
+ 
