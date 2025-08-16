@@ -26,21 +26,30 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}<br>
-<div class="arrow-toggle" onclick="toggleAbstract(this)">
-  <span class="arrow">▼</span> Abstract
+<div class="toggle-container">
+    <input type="checkbox" id="toggle1" class="toggle-checkbox">
+    <label for="toggle1" class="toggle-label"></label>
+    <div class="toggle-content">
+        This is the content that will be shown/hidden when the arrow is clicked.
+        You can put any Markdown or HTML here.
+        
+        - List item 1
+        - List item 2
+        - List item 3
+    </div>
 </div>
-<div class="abstract-content">
-  <p>This is the abstract content that will show or hide when clicking the arrow.</p>
+<div class="toggle-container">
+    <input type="checkbox" id="toggle2" class="toggle-checkbox">
+    <label for="toggle2" class="toggle-label"></label>
+    <div class="toggle-content">
+        Another toggle section with different content.
+        
+        ```python
+        def example():
+            print("Code blocks work too!")
+        ```
+    </div>
 </div>
-
-<script>
-function toggleAbstract(el) {
-  el.classList.toggle('open');
-  const content = el.nextElementSibling;
-  if (content.style.display === "none" || content.style.display === "") {
-    content.style.display = "block";
-  } else {
-    content.style.display = "none";
   }
 }
 </script>
