@@ -5,4 +5,4 @@ baseurl: /home
 github_username:  apuertac94
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
