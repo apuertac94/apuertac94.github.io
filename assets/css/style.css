@@ -2,18 +2,20 @@
 .arrow-toggle {
   cursor: pointer;
   display: inline-flex;
-  align-items: center; /* vertically centers the arrow with the text */
+  align-items: center;
   font-weight: bold;
-  line-height: 1.5em; /* ensures consistent height */
+}
+
+.arrow-toggle .arrow-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.2em; /* keeps arrow container same size always */
+  height: 1.2em;
+  margin-right: 0.3em;
 }
 
 .arrow-toggle .arrow {
-  display: inline-block;
-  width: 1em; /* reserves space so arrow doesn’t shift */
-  text-align: center;
-  margin-right: 0.3em;
+  display: block;
 }
 </style>
-
-
-
