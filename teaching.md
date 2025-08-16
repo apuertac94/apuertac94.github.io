@@ -6,4 +6,4 @@ permalink: /teaching/
 
 # Teaching
 
-Here you can find my teaching
+Here you can find my teaching 
