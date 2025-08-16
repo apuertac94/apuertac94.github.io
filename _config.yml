@@ -6,3 +6,7 @@ theme: minima
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag 
+header_pages:
+  - cv.md
+  - research.md
+  - teaching.md
