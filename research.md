@@ -21,5 +21,6 @@ with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Working paper version available [**here**](promote_honesty_2022.pdf){:target="_blank" download="promote_honesty_2022.pdf"}
+[Download CV](promote_honesty_2022.pdf){.cv-button}
 
 
