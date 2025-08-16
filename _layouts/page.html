@@ -1,5 +1,5 @@
 ---
-# layout: default
+layout: default
 ---
 
 <!DOCTYPE html>
@@ -9,8 +9,6 @@
     <title>{{ page.title }} | {{ site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Usamos los estilos de Minima -->
-    {{ "/assets/main.css" | relative_url }}
     {{ content_for_header }}
   </head>
 
@@ -38,3 +36,4 @@
     </footer>
   </body>
 </html>
+
