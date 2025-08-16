@@ -26,19 +26,22 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}<br>
-<div class="arrow-toggle" onclick="this.classList.toggle('active')">
-  <span class="arrow">►</span>
-  Abstract here
+<div class="arrow-toggle" onclick="toggleAbstract(this)">
+  <span class="arrow">▼</span> Abstract
 </div>
-<div class="abstract" style="display:none;">
-  Your abstract text here.
+<div class="abstract-content">
+  <p>This is the abstract content that will show or hide when clicking the arrow.</p>
 </div>
 
 <script>
 function toggleAbstract(el) {
-  el.classList.toggle('active');
-  const abstract = el.nextElementSibling;
-  abstract.style.display = abstract.style.display === 'none' ? 'block' : 'none';
+  el.classList.toggle('open');
+  const content = el.nextElementSibling;
+  if (content.style.display === "none" || content.style.display === "") {
+    content.style.display = "block";
+  } else {
+    content.style.display = "none";
+  }
 }
 </script>
 
