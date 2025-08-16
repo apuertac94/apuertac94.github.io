@@ -1,23 +1,26 @@
+.arrow-toggle {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  color: inherit;      /* same color as text */
+  background: none;    /* no background */
+  border: none;        /* no border */
+  font-size: 1em;
+  user-select: none;
+}
+
+.arrow {
+  font-weight: bold;
+}
+
 .abstract {
   display: none;
-  margin-top: 0.5em;
+  margin-top: 0.3em;
 }
 
 .abstract.open {
   display: block;
 }
 
-.arrow-toggle {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-size: 1em;
-  display: flex;
-  align-items: center;
-  gap: 0.3em;
-}
-
-.arrow-toggle .arrow {
-  font-weight: bold;
-} 
 
