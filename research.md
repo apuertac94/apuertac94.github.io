@@ -29,32 +29,18 @@ Latest version available [here](family_background.pdf){:target="_blank" download
 <div class="arrow-toggle" onclick="toggleAbstract(this)">
   <span class="arrow">►</span> Abstract
 </div>
-<div class="abstract">
-This paper examines how family background relates to economic mobility
-for disadvantaged children. We use data from the Panel Study
-of Income Dynamics for below-median income, multiple-child families.
-Using a novel approach combining family fixed effects, Empirical Bayes
-shrinkage, and SHapley Additive exPlanations, we identify which family
-characteristics most strongly predict children’s economic outcomes
-relative to their parents, holding parental income constant. Our findings
-reveal that race and family structure are the primary predictors,
-accounting for 35% and 22.4% of the explained variation, respectively.
-While supporting the well-documented racial disparities in intergenerational
-mobility, our results suggest that the role of family structure in
-intergenerational mobility extends beyond the single- versus two-parent
-household distinction.
+<div class="abstract-content" style="display:none; margin-left: 1em;">
+  This paper studies how family background influences economic mobility in the US. Using novel data and robust identification strategies, we find that X, Y, and Z significantly affect intergenerational outcomes.
 </div>
-
 <script>
 function toggleAbstract(el) {
-  const abstract = el.nextElementSibling;
-  const arrow = el.querySelector(".arrow");
-  if (abstract.classList.contains("open")) {
-    abstract.classList.remove("open");
-    arrow.textContent = "►";
+  const content = el.nextElementSibling;
+  if (content.style.display === "none") {
+    content.style.display = "block";
+    el.querySelector(".arrow").textContent = "▼";
   } else {
-    abstract.classList.add("open");
-    arrow.textContent = "▼";
+    content.style.display = "none";
+    el.querySelector(".arrow").textContent = "►";
   }
 }
 </script>
