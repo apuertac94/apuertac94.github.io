@@ -1,45 +1,27 @@
-/* Style for the toggle container */
 .toggle-container {
-    margin: 1em 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  user-select: none;
 }
 
-/* Hide the checkbox */
-.toggle-checkbox {
-    display: none;
+.toggle-arrow {
+  display: inline-block;
+  transition: transform 0.3s ease; /* smooth rotation */
+  transform: rotate(90deg); /* initially points right */
+  margin-right: 0.5em;
 }
 
-/* Style for the toggle label (the clickable arrow) */
-.toggle-label {
-    cursor: pointer;
-    display: inline-block;
-    transition: transform 0.3s ease;
-    font-size: 1.2em;
-    width: 1em;
-    height: 1em;
-    text-align: center;
-    line-height: 1em;
-}
-
-/* Initial state: arrow pointing right (▶) */
-.toggle-checkbox:not(:checked) + .toggle-label::before {
-    content: "▶";
-    display: inline-block;
-}
-
-/* Checked state: arrow pointing down (▼) */
-.toggle-checkbox:checked + .toggle-label::before {
-    content: "▼";
-    display: inline-block;
-}
-
-/* Style for the content that toggles */
 .toggle-content {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease;
+  display: none;
+  margin-left: 1.5em; /* indent content */
 }
 
-/* Show content when checked */
-.toggle-checkbox:checked ~ .toggle-content {
-    max-height: 1000px; /* Adjust this value based on your content */
+.toggle-container.active .toggle-arrow {
+  transform: rotate(180deg); /* points down */
 }
+
+.toggle-container.active + .toggle-content {
+  display: block;
+}
+
