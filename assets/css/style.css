@@ -1,19 +1,24 @@
-<style>
 .arrow-toggle {
   cursor: pointer;
+  user-select: none;
   display: inline-flex;
   align-items: center;
-  font-weight: bold;
 }
 
 .arrow-toggle .arrow {
   display: inline-block;
-  transition: transform 0.2s ease;
-  margin-right: 0.3em;
+  transition: transform 0.2s;
+  font-size: 1.2em; /* keeps arrow size consistent */
+  transform: rotate(90deg); /* initially pointing right */
+  margin-right: 5px;
 }
 
-/* rotated state */
-.arrow-toggle.active .arrow {
-  transform: rotate(90deg); /* points down */
+.arrow-toggle.open .arrow {
+  transform: rotate(180deg); /* points down when clicked */
 }
-</style>
+
+.abstract-content {
+  display: none;
+  margin-top: 5px;
+}
+
