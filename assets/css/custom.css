@@ -35,7 +35,6 @@
   border-top: 1px solid #eee;
   font-size: 0.9rem;
 }
-
 .site-footer > .wrapper > :first-child:not(.footer-col-wrapper) {
   display: none;
 }
