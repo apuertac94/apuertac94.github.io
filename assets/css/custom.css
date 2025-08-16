@@ -1,0 +1,27 @@
+/* Elimina los puntos de la lista */
+.site-nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 1.5rem;
+}
+
+/* Estilo para los enlaces */
+.site-nav a {
+  text-decoration: none;
+  color: #333; /* o el color que prefieras */
+  font-weight: 500;
+  padding: 0.5rem 0;
+  position: relative;
+}
+
+/* Efecto hover opcional */
+.site-nav a:hover {
+  color: #0077cc; /* color al pasar el mouse */
+}
+
+/* Línea inferior al activo (opcional) */
+.site-nav a[aria-current="page"] {
+  border-bottom: 2px solid #0077cc;
+}
