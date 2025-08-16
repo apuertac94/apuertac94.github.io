@@ -1,10 +1,8 @@
 title: Alejandro Puerta-Cuartas
+email: alpuerta@eco.uc3m.es
+url: "https://apuertac94.github.io/" 
+baseurl: /home 
+github_username:  apuertac94
 theme: minima
 plugins:
   - jekyll-feed
-
-# Navbar
-header_pages:
-  - /research/
-  - /teaching/
-  - /cv/
