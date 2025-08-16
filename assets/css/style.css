@@ -1,26 +1,19 @@
+<style>
 .arrow-toggle {
   cursor: pointer;
   display: inline-flex;
-  align-items: center;
-  gap: 0.3em;
-  color: inherit;      /* same color as text */
-  background: none;    /* no background */
-  border: none;        /* no border */
-  font-size: 1em;
-  user-select: none;
-}
-
-.arrow {
+  align-items: center; /* vertically centers the arrow with the text */
   font-weight: bold;
+  line-height: 1.5em; /* ensures consistent height */
 }
 
-.abstract {
-  display: none;
-  margin-top: 0.3em;
+.arrow-toggle .arrow {
+  display: inline-block;
+  width: 1em; /* reserves space so arrow doesn’t shift */
+  text-align: center;
+  margin-right: 0.3em;
 }
+</style>
 
-.abstract.open {
-  display: block;
-}
 
 
