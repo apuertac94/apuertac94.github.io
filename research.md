@@ -26,11 +26,9 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}<br>
-<div class="arrow-toggle" onclick="toggleAbstract(this)">
-  <span class="arrow-container">
-    <span class="arrow">►</span>
-  </span>
-  Abstract
+<div class="arrow-toggle" onclick="this.classList.toggle('active')">
+  <span class="arrow">►</span>
+  Abstract here
 </div>
 <div class="abstract" style="display:none;">
   Your abstract text here.
@@ -38,13 +36,9 @@ Latest version available [here](family_background.pdf){:target="_blank" download
 
 <script>
 function toggleAbstract(el) {
-  const content = el.nextElementSibling;
-  if (content.style.display === "none") {
-    content.style.display = "block";
-    el.querySelector(".arrow").textContent = "▼";
-  } else {
-    content.style.display = "none";
-    el.querySelector(".arrow").textContent = "►";
-  }
+  el.classList.toggle('active');
+  const abstract = el.nextElementSibling;
+  abstract.style.display = abstract.style.display === 'none' ? 'block' : 'none';
 }
 </script>
+
