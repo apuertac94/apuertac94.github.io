@@ -1,27 +1,61 @@
-/* Elimina los puntos de la lista */
-.site-nav ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  gap: 1.5rem;
+/* Navigation styles */
+.site-nav {
+    float: right;
+    line-height: 3.25rem;
 }
 
-/* Estilo para los enlaces */
-.site-nav a {
-  text-decoration: none;
-  color: #333; /* o el color que prefieras */
-  font-weight: 500;
-  padding: 0.5rem 0;
-  position: relative;
+.trigger {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
-/* Efecto hover opcional */
-.site-nav a:hover {
-  color: #0077cc; /* color al pasar el mouse */
+.page-link {
+    color: #111;
+    text-decoration: none;
+    font-weight: 500;
 }
 
-/* Línea inferior al activo (opcional) */
-.site-nav a[aria-current="page"] {
-  border-bottom: 2px solid #0077cc;
+.page-link:hover {
+    color: #0077cc;
+    text-decoration: underline;
+}
+
+/* Mobile menu */
+.nav-trigger {
+    display: none;
+}
+
+.menu-icon {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav {
+        position: relative;
+    }
+    
+    .menu-icon {
+        display: block;
+        float: right;
+        width: 2rem;
+        height: 1.625rem;
+        line-height: 0;
+        padding-top: 0.5rem;
+        text-align: center;
+    }
+    
+    .nav-trigger ~ .trigger {
+        clear: both;
+        display: none;
+    }
+    
+    .nav-trigger:checked ~ .trigger {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        padding: 1rem 0;
+    }
 }
