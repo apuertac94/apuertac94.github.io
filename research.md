@@ -26,31 +26,12 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}<br>
-<div class="toggle-container">
-    <input type="checkbox" id="toggle1" class="toggle-checkbox">
-    <label for="toggle1" class="toggle-label"></label>
-    <div class="toggle-content">
-        This is the content that will be shown/hidden when the arrow is clicked.
-        You can put any Markdown or HTML here.
-        
-        - List item 1
-        - List item 2
-        - List item 3
-    </div>
+<div class="toggle-container" onclick="this.classList.toggle('active')">
+  <span class="toggle-arrow">▼</span>
+  <span>Click to expand</span>
 </div>
-<div class="toggle-container">
-    <input type="checkbox" id="toggle2" class="toggle-checkbox">
-    <label for="toggle2" class="toggle-label"></label>
-    <div class="toggle-content">
-        Another toggle section with different content.
-        
-        ```python
-        def example():
-            print("Code blocks work too!")
-        ```
-    </div>
+<div class="toggle-content">
+  <p>This is the hidden content that shows when you click the arrow. You can put any Markdown content here.</p>
 </div>
-  }
-}
 </script>
 
