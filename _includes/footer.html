@@ -2,11 +2,12 @@
   <div class="wrapper">
     <div>
       <p>
-        {{ site.title }}  
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
         <br>
-        <a href="mailto:{{ site.email }}">{{ site.email }}</a>  
-        <br>
-        <a href="https://github.com/{{ site.github_username }}">{{ site.github_username }}</a>
+        <a href="https://github.com/{{ site.github_username }}">
+          {% include icon-github.svg %}
+          {{ site.github_username }}
+        </a>
       </p>
     </div>
   </div>
