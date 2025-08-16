@@ -26,5 +26,36 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}
+<button class="arrow-toggle" onclick="toggleAbstract(this)">
+  Abstract ▼
+</button>
+<div class="abstract" style="display: none;">
+This paper examines how family background relates to economic mobility
+for disadvantaged children. We use data from the Panel Study
+of Income Dynamics for below-median income, multiple-child families.
+Using a novel approach combining family fixed effects, Empirical Bayes
+shrinkage, and SHapley Additive exPlanations, we identify which family
+characteristics most strongly predict children’s economic outcomes
+relative to their parents, holding parental income constant. Our findings
+reveal that race and family structure are the primary predictors,
+accounting for 35% and 22.4% of the explained variation, respectively.
+While supporting the well-documented racial disparities in intergenerational
+mobility, our results suggest that the role of family structure in
+intergenerational mobility extends beyond the single- versus two-parent
+household distinction.
+</div>
+
+<script>
+function toggleAbstract(btn) {
+  const abstract = btn.nextElementSibling;
+  if (abstract.style.display === "none") {
+    abstract.style.display = "block";
+    btn.innerHTML = "Abstract ▲";
+  } else {
+    abstract.style.display = "none";
+    btn.innerHTML = "Abstract ▼";
+  }
+}
+</script>
 
 
