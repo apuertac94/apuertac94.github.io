@@ -25,7 +25,7 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
-Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}
+Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}<br>
 <button class="arrow-toggle" onclick="toggleAbstract(this)">
   <span class="arrow">►</span> Abstract
 </button>
