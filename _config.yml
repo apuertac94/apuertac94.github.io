@@ -1,5 +1,10 @@
 title: Alejandro Puerta-Cuartas
-description: I am a fifth-year PhD student in Economics at Universidad Carlos III de Madrid.
 theme: minima
 plugins:
-  - jekyll-sitemap
+  - jekyll-feed
+
+# Navbar
+header_pages:
+  - /research/
+  - /teaching/
+  - /cv/
