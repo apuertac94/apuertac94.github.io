@@ -1,52 +1,29 @@
-/* Estructura básica */
-.wrapper {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 0 20px;
-} 
+---
+---
 
-/* Header */
-.site-header {
-  padding: 1.5rem 0;
-  border-bottom: 1px solid #eee;
-}
+@import "minima";
 
-.site-title {
-  font-size: 1.5rem;
-  font-weight: 700;
-  text-decoration: none;
-  color: inherit;
-}
-
-.site-nav {
-  display: inline-block;
-  margin-left: 1.5rem;
-}
-
-.site-nav a {
-  margin-left: 1rem;
-  text-decoration: none;
-  color: #333;
-}
-
-/* Footer */
-.site-footer {
-  margin-top: 2rem;
-  padding: 1.5rem 0;
-  border-top: 1px solid #eee;
-  font-size: 0.9rem;
+.custom-footer {
   text-align: center;
+  margin-top: 2rem;
+  
+  a {
+    color: $text-color;
+    text-decoration: none;
+    
+    &:hover {
+      color: $brand-color;
+    }
+  }
 }
 
-.footer-content {
-  display: flex;
-  gap: 0.5rem;
-  justify-content: center;
-  align-items: center;
+.footer-separator {
+  margin: 0 0.5rem;
+  opacity: 0.5;
 }
 
-.github-icon {
-  vertical-align: middle;
+.svg-icon {
+  vertical-align: text-bottom;
   margin-right: 0.25rem;
 }
 
