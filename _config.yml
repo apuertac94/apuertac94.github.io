@@ -10,3 +10,5 @@ header_pages:
   - cv.md
   - research.md
   - teaching.md
+minima:
+  show_footer_credits: false
