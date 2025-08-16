@@ -27,7 +27,7 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}<br>
 <details>
-  <summary>▼ Click to expand</summary>
+  <summary>Click to expand</summary>
 
 This is the hidden content that shows when you click the arrow. You can put any Markdown content here.
 
