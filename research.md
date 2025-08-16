@@ -27,9 +27,9 @@ Working paper version available [here](promote_honesty_2022.pdf){:target="_blank
 **Family Background and Economic Mobility: Evidence from the US**<br>
 Latest version available [here](family_background.pdf){:target="_blank" download="family_background.pdf"}
 <button class="arrow-toggle" onclick="toggleAbstract(this)">
-  Abstract ▼
+  <span class="arrow">►</span> Abstract
 </button>
-<div class="abstract" style="display: none;">
+<div class="abstract">
 This paper examines how family background relates to economic mobility
 for disadvantaged children. We use data from the Panel Study
 of Income Dynamics for below-median income, multiple-child families.
@@ -48,14 +48,13 @@ household distinction.
 <script>
 function toggleAbstract(btn) {
   const abstract = btn.nextElementSibling;
-  if (abstract.style.display === "none") {
-    abstract.style.display = "block";
-    btn.innerHTML = "Abstract ▲";
+  const arrow = btn.querySelector(".arrow");
+  if (abstract.classList.contains("open")) {
+    abstract.classList.remove("open");
+    arrow.textContent = "►";
   } else {
-    abstract.style.display = "none";
-    btn.innerHTML = "Abstract ▼";
+    abstract.classList.add("open");
+    arrow.textContent = "▼";
   }
 }
 </script>
-
-
