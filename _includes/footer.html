@@ -2,30 +2,22 @@
   <div class="wrapper">
     <div>
       <p>
-        <!-- Email -->
-        <a href="mailto:{{ site.email }}" style="display: inline-flex; align-items: center; margin-right: 12px;">
+        <a href="mailto:{{ site.email }}" style="display: inline-flex; align-items: center;">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="16" height="16" style="margin-right: 4px;">
             <path d="M2 4a2 2 0 012-2h16a2 2 0 012 2v2l-10 6L2 6V4z" />
             <path d="M2 8l10 6 10-6v10a2 2 0 01-2 2H4a2 2 0 01-2-2V8z" />
           </svg>
           {{ site.email }}
         </a>
-
-        <!-- GitHub -->
-        <a href="https://github.com/{{ site.github_username }}" target="_blank" style="display: inline-flex; align-items: center; margin-right: 12px;">
+        <br>
+        <a href="https://github.com/{{ site.github_username }}" style="display: inline-flex; align-items: center; margin-left: 0;">
           {% include icon-github.svg %}
           <span style="margin-left: 4px;">{{ site.github_username }}</span>
         </a>
-
-        <!-- Google Scholar -->
-        <a href="https://scholar.google.com/citations?user=rMgEOy8AAAAJ&hl=es" target="_blank" style="display: inline-flex; align-items: center;">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="16" height="16" style="margin-right: 4px;">
-            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10
-                     10-4.48 10-10S17.52 2 12 2zm1 17.93c-2.83.48-5.5-.2-7.52-2.23-2.03-2.03-2.71-4.7-2.23-7.52C5.07 6.53 7.52 5 12 5s6.93 1.53 7.75 4.18c.48 2.82-.2 5.5-2.23 7.52-2.02 2.03-4.7 2.71-7.52 2.23z"/>
-            <path d="M12 6.5c-2.49 0-4.5 2.01-4.5 4.5s2.01 4.5 4.5 4.5
-                     4.5-2.01 4.5-4.5-2.01-4.5-4.5-4.5z"/>
-          </svg>
-          Google Scholar
+        <br>
+        <a href="https://scholar.google.com/citations?user=rMgEOy8AAAAJ&hl=es" target="_blank" style="display: inline-flex; align-items: center; margin-left: 0;">
+          {% include gs_logo.svg %}
+          <span style="margin-left: 4px;">Google Scholar</span>
         </a>
       </p>
     </div>
