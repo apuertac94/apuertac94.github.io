@@ -1,0 +1,18 @@
+/* Make all links have the same color */
+a {
+  color: inherit;       /* inherit the default text color */
+  text-decoration: underline; /* keeps links underlined */
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:hover, a:focus, a:active {
+  color: inherit;
+}
+
+/* Force special links like download or target="_blank" to match */
+a[target="_blank"], a[download] {
+  color: inherit !important;
+}
