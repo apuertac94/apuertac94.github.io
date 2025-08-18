@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Job Market Paper
 **Non-parametric Identification and Estimation of the Intergenerational Elasticity**<br>
-Latest version available <a href="np_id_and_estimate_ige.pdf" target="_blank" download="np_id_and_estimate_ige.pdf">here</a><br>
+Latest version available <a href="np_id_and_estimate_ige.pdf" target="_blank" download="np_id_and_estimate_ige.pdf"  style="color: inherit;">here</a><br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
@@ -86,7 +86,7 @@ with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and  Javier Beverinotti
 **Promoting academic honesty: a Bayesian causal analysis of an integrity pilot campaign**<br>
 with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
 [Education Economics (2022)](https://www.tandfonline.com/doi/full/10.1080/09645292.2021.2006609?scroll=top&needAccess=true)<br>
-Working paper version available <a href="promote_honesty_2022.pdf" target="_blank" download="promote_honesty_2022.pdf"; text-decoration: none;">here</a> 
+Working paper version available <a href="promote_honesty_2022.pdf" target="_blank" download="promote_honesty_2022.pdf">here</a>
 
 
 **Revisiting Tax Effort in Emerging Markets**<br>
