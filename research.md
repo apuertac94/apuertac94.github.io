@@ -48,7 +48,7 @@ household distinction.
 </details>
 
 **Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador**<br>
-R&R at World Development 
+R&R at World Development<br>
 Latest version available [here](here_comes_the_rain.pdf){:target="_blank" download="here_comes_the_rain.pdf"}<br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
