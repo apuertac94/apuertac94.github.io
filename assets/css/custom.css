@@ -1,5 +1,0 @@
-/* All links same color globally */
-a, a:visited, a:hover, a:focus, a:active, a[target="_blank"], a[download] {
-    color: inherit !important;
-    text-decoration: underline; /* optional */
-}
