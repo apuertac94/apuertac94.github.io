@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Job Market Paper
 **Non-parametric Identification and Estimation of the Intergenerational Elasticity**<br>
-Latest version available <a href="np_id_and_estimate_ige.pdf" target="_blank" download="np_id_and_estimate_ige.pdf">here</a><br>
+Latest version available [here](np_id_and_estimate_ige.pdf)
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
@@ -27,7 +27,7 @@ the United States.
 
 ## Working Papers
 **Family Background and Economic Mobility: Evidence from the US**<br>
-Latest version available <a href="family_background.pdf" target="_blank" download="family_background.pdf">here</a><br>
+Latest version available [here](family_background.pdf)
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
@@ -49,7 +49,7 @@ household distinction.
 
 **Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador**<br>
 R&R at World Development<br>
-Latest version available <a href="here_comes_the_rain.pdf" target="_blank" download="here_comes_the_rain.pdf">here</a><br>
+Latest version available [here](here_comes_the_rain.pdf)
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
@@ -87,12 +87,12 @@ with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and  Javier Beverinotti
 **Promoting academic honesty: a Bayesian causal analysis of an integrity pilot campaign**<br>
 with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
 [Education Economics (2022)](https://www.tandfonline.com/doi/full/10.1080/09645292.2021.2006609?scroll=top&needAccess=true)<br>
-Working paper version available <a href="promote_honesty_2022.pdf" target="_blank" download="promote_honesty_2022.pdf">here</a>
+Working paper version available [here](promote_honesty_2022.pdf)
 
 **Revisiting Tax Effort in Emerging Markets**<br>
 with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Maria Cecilia Deza, and  [Osmel Manzano](https://sites.google.com/site/osmelmanzano/home)<br>
 [Public Finance Review (2022)](https://www.sciencedirect.com/science/article/pii/S0161893824001480?via%3Dihub)<br>
-Working paper version available <a href="tax_effort_2022.pdf" target="_blank" download="tax_effort_2022.pdf">here</a>
+Working paper version available [here](tax_effort_2022.pdf)
 
 
 ## Chapters in Books
