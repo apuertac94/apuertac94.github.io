@@ -2,27 +2,27 @@
   <div class="wrapper">
     <div>
       <p>
-        <a href="mailto:{{ site.email }}" style="display: inline-flex; align-items: center;">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="16" height="16" style="margin-right: 4px;">
+        <!-- Email -->
+        <a href="mailto:{{ site.email }}" style="display: inline-flex; align-items: center; margin-left: 0;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" style="margin-right: 4px;">
             <path d="M2 4a2 2 0 012-2h16a2 2 0 012 2v2l-10 6L2 6V4z" />
             <path d="M2 8l10 6 10-6v10a2 2 0 01-2 2H4a2 2 0 01-2-2V8z" />
           </svg>
-          {{ site.email }}
+          <span>{{ site.email }}</span>
         </a>
         <br>
+        <!-- GitHub -->
         <a href="https://github.com/{{ site.github_username }}" style="display: inline-flex; align-items: center; margin-left: 0;">
           {% include icon-github.svg %}
           <span style="margin-left: 4px;">{{ site.github_username }}</span>
         </a>
         <br>
+        <!-- Google Scholar -->
         <a href="https://scholar.google.com/citations?user=YOUR_USER_ID" target="_blank" style="display: inline-flex; align-items: center; margin-left: 0;">
-          <svg style="width:16px; height:16px; margin-right:4px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-            {% include gs_logo.svg %}
-          </svg>
-          <span style="margin-left: 4px;">Google Scholar</span>
+          {% include gs_logo.svg %}
+          <span style="margin-left: 4px;">Google Scholar Profile</span>
         </a>
       </p>
     </div>
   </div>
 </footer>
-
