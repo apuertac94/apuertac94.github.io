@@ -2,7 +2,8 @@
   <div class="wrapper">
     <div>
       <p>
-        <a href="mailto:{{ site.email }}" style="display: inline-flex; align-items: center;">
+        <!-- Email link -->
+        <a href="mailto:{{ site.email }}" style="display: inline-flex; align-items: center; color: #1a0dab;">
           <span style="width:16px; height:16px; display:inline-flex; align-items:center; justify-content:center; margin-right:4px;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="16" height="16">
               <path d="M2 4a2 2 0 012-2h16a2 2 0 012 2v2l-10 6L2 6V4z" />
@@ -12,14 +13,18 @@
           {{ site.email }}
         </a>
         <br>
-        <a href="https://github.com/{{ site.github_username }}" style="display: inline-flex; align-items: center; text-decoration: none;">
+
+        <!-- GitHub link -->
+        <a href="https://github.com/{{ site.github_username }}" style="display: inline-flex; align-items: center; text-decoration: none; color: #1a0dab;">
           <span style="width:16px; height:16px; display:inline-flex; align-items:center; justify-content:center; margin-right:4px;">
             {% include icon-github.svg %}
           </span>
           <span>{{ site.github_username }}</span>
         </a>
         <br>
-        <a href="https://scholar.google.com/citations?user=rMgEOy8AAAAJ&hl=es" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+
+        <!-- Google Scholar link -->
+        <a href="https://scholar.google.com/citations?user=rMgEOy8AAAAJ&hl=es" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; color: #1a0dab;">
           <span style="width:16px; height:16px; display:inline-flex; align-items:center; justify-content:center; margin-right:4px;">
             {% include gs_logo.svg %}
           </span>
@@ -29,3 +34,4 @@
     </div>
   </div>
 </footer>
+
