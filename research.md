@@ -96,7 +96,7 @@ Working paper version available [here](tax_effort_2022.pdf){:target="_blank" dow
 ## Chapters in Books
 **Evaluating Educational Policies in Practice**<br>
 with Vedant Bhardwaj, and María Valkov<br>
-in Economics of Education (Springer Nature, forthcoming)
+in Economics of Education (Springer Nature, forthcoming) <br>
 Working paper version available [here](eval_educ_policy.pdf){:target="_blank" download="eval_educ_policy.pdf"}
 
 ## Contributions to Policy Reports
