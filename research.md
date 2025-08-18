@@ -93,5 +93,23 @@ with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Maria Cecilia Deza, an
 [Public Finance Review (2022)](https://www.sciencedirect.com/science/article/pii/S0161893824001480?via%3Dihub)<br>
 Working paper version available [here](tax_effort_2022.pdf){:target="_blank" download="tax_effort_2022.pdf"}
 
+## Chapters in Books
+**Evaluating Educational Policies in Practice**<br>
+with Vedant Bhardwaj, and María Valkov<br>
+in Economics of Education (Springer Nature, forthcoming)
+Working paper version available [here](eval_educ_policy.pdf){:target="_blank" download="eval_educ_policy.pdf"}
+
+## Contributions to Policy Reports
+**Poverty and Equity Assessment in Ecuador**<br>
+World Bank, forthcoming <br>
+**Cómo acelerar el crecimiento económico y fortalecer la clase media: Perú**<br>
+[Inter-American Development Bank (2020)](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-peru)<br>
+**Cómo acelerar el crecimiento económico y fortalecer la clase media: Colombia**<br>
+[Inter-American Development Bank (2020)](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-colombia)<br>
+**Cómo acelerar el crecimiento económico y fortalecer la clase media: Ecuador**<br>
+[Inter-American Development Bank (2020)](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-ecuador)<br>
+**Cómo acelerar el crecimiento económico y fortalecer la clase media: Bolivia**<br>
+[Inter-American Development Bank (2020)](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-bolivia)
+
 
 
