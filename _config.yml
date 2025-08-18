@@ -10,3 +10,5 @@ header_pages:
   - cv.md
   - research.md
   - teaching.md
+minima:
+  custom_css: "/assets/css/custom.css"
