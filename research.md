@@ -104,13 +104,17 @@ Working paper version available <a href="eval_educ_policy.pdf" target="_blank" d
 ## Contributions to Policy Reports
 **Poverty and Equity Assessment in Ecuador**<br>
 World Bank, forthcoming <br>
-**Cómo acelerar el crecimiento económico y fortalecer la clase media: Perú**<br>
-[Inter-American Development Bank (2020)](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-peru)<br>
-**Cómo acelerar el crecimiento económico y fortalecer la clase media: Colombia**<br>
-[Inter-American Development Bank (2020)](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-colombia)<br>
-**Cómo acelerar el crecimiento económico y fortalecer la clase media: Ecuador**<br>
-[Inter-American Development Bank (2020)](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-ecuador)<br>
-**Cómo acelerar el crecimiento económico y fortalecer la clase media: Bolivia**<br>
-[Inter-American Development Bank (2020)](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-bolivia)
+[**Cómo acelerar el crecimiento económico y fortalecer la clase media: Perú**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-peru)<br>
+Inter-American Development Bank (2020)<br>
+
+[**Cómo acelerar el crecimiento económico y fortalecer la clase media: Colombia**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-colombia)<br>
+Inter-American Development Bank (2020)<br>
+
+[**Cómo acelerar el crecimiento económico y fortalecer la clase media: Ecuador**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-ecuador)<br>
+Inter-American Development Bank (2020)<br>
+
+[**Cómo acelerar el crecimiento económico y fortalecer la clase media: Bolivia**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-bolivia)<br>
+Inter-American Development Bank (2020)<br>
+
 
 
