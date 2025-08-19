@@ -71,27 +71,27 @@ sector.
 </details>
 
 ## Publications   
-**On the Effects of Wildfires on Poverty in Bolivia**<br>
+
+[**On the Effects of Wildfires on Poverty in Bolivia**](https://www.sciencedirect.com/science/article/pii/S0304387825000458)<br>
 with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and [Andrey Ramos](https://anramosr.github.io/) <br>
-[Journal of Development Economics (2025)](https://www.sciencedirect.com/science/article/pii/S0304387825000458) <br>
+*Journal of Development Economics* (2025) <br>
 
-**A spatial one-sided error model to identify where unarrested criminals live**<br>
+[**A spatial one-sided error model to identify where unarrested criminals live**](https://www.sciencedirect.com/science/article/pii/S0264999324002864)<br>
 with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
-[Economic Modelling (2025)](https://www.sciencedirect.com/science/article/pii/S0264999324002864)<br>
+*Economic Modelling* (2025)<br>
 
-**Efficiency in Poverty Reduction in Bolivia**<br>
-with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and  Javier Beverinotti <br>
-[Journal of Policy Modeling (2025)](https://www.sciencedirect.com/science/article/pii/S0161893824001480?via%3Dihub)<br>
+[**Efficiency in Poverty Reduction in Bolivia**](https://www.sciencedirect.com/science/article/pii/S0161893824001480?via%3Dihub)<br>
+with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and Javier Beverinotti <br>
+*Journal of Policy Modeling* (2025)<br>
 
-
-**Promoting academic honesty: a Bayesian causal analysis of an integrity pilot campaign**<br>
+[**Promoting academic honesty: a Bayesian causal analysis of an integrity pilot campaign**](https://www.tandfonline.com/doi/full/10.1080/09645292.2021.2006609?scroll=top&needAccess=true)<br>
 with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
-[Education Economics (2022)](https://www.tandfonline.com/doi/full/10.1080/09645292.2021.2006609?scroll=top&needAccess=true)<br>
+*Education Economics* (2022)<br>
 Working paper version available [here](promote_honesty_2022.pdf)
 
-**Revisiting Tax Effort in Emerging Markets**<br>
-with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Maria Cecilia Deza, and  [Osmel Manzano](https://sites.google.com/site/osmelmanzano/home)<br>
-[Public Finance Review (2022)](https://www.sciencedirect.com/science/article/pii/S0161893824001480?via%3Dihub)<br>
+[**Revisiting Tax Effort in Emerging Markets**](https://www.sciencedirect.com/science/article/pii/S0161893824001480?via%3Dihub)<br>
+with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Maria Cecilia Deza, and [Osmel Manzano](https://sites.google.com/site/osmelmanzano/home)<br>
+*Public Finance Review* (2022)<br>
 Working paper version available [here](tax_effort_2022.pdf)
 
 
