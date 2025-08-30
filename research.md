@@ -44,7 +44,6 @@ intergenerational mobility extends beyond the single- versus two-parent
 household distinction.
 </div>
 </details>
-
 [**Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador**](here_comes_the_rain.pdf)<br>
 R&R at ***World Development***<br>
 <details style="margin-top: -0.5em;">
@@ -66,7 +65,6 @@ effects on labor income in the tertiary sector, while amplifying inequality in t
 sector.
 </div>
 </details>
-
 ## Publications   
 [**On the Effects of Wildfires on Poverty in Bolivia**](https://www.sciencedirect.com/science/article/pii/S0304387825000458)<br>
 with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and [Andrey Ramos](https://anramosr.github.io/) <br>
@@ -99,7 +97,5 @@ Working paper version available <a href="eval_educ_policy.pdf" target="_blank" d
 ***Inter-American Development Bank*** (2020)<br>
 [**How to accelerate economic growth and strengthen the middle class: Ecuador (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-ecuador)<br>
 *Inter-American Development Bank (2020)*<br>
-
 [**How to accelerate economic growth and strengthen the middle class: Bolivia (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-bolivia)<br>
 *Inter-American Development Bank (2020)*<br>
-
