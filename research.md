@@ -5,8 +5,7 @@ permalink: /research/
 ---
 
 ## Job Market Paper
-**Non-parametric Identification and Estimation of the Intergenerational Elasticity**<br>
-Latest version available [here](np_id_and_estimate_ige.pdf)
+[**Non-parametric Identification and Estimation of the Intergenerational Elasticity**](np_id_and_estimate_ige.pdf)<br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
@@ -26,8 +25,7 @@ the United States.
 </details>
 
 ## Working Papers
-**Family Background and Economic Mobility: Evidence from the US**<br>
-Latest version available [here](family_background.pdf)
+[**Family Background and Economic Mobility: Evidence from the US**](family_background.pdf)**<br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
@@ -47,9 +45,8 @@ household distinction.
 </div>
 </details>
 
-**Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador**<br>
-R&R at World Development<br>
-Latest version available [here](here_comes_the_rain.pdf)
+[**Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador**](here_comes_the_rain.pdf)<br>
+R&R at ***World Development***<br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
@@ -74,47 +71,47 @@ sector.
 
 [**On the Effects of Wildfires on Poverty in Bolivia**](https://www.sciencedirect.com/science/article/pii/S0304387825000458)<br>
 with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and [Andrey Ramos](https://anramosr.github.io/) <br>
-*Journal of Development Economics* (2025) <br>
+***Journal of Development Economics*** (2025) <br>
 
 [**A spatial one-sided error model to identify where unarrested criminals live**](https://www.sciencedirect.com/science/article/pii/S0264999324002864)<br>
 with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
-*Economic Modelling* (2025)<br>
+***Economic Modelling*** (2025)<br>
 
 [**Efficiency in Poverty Reduction in Bolivia**](https://www.sciencedirect.com/science/article/pii/S0161893824001480?via%3Dihub)<br>
 with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and Javier Beverinotti <br>
-*Journal of Policy Modeling* (2025)<br>
+***Journal of Policy Modeling*** (2025)<br>
 
 [**Promoting academic honesty: a Bayesian causal analysis of an integrity pilot campaign**](https://www.tandfonline.com/doi/full/10.1080/09645292.2021.2006609)<br>
 with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
-*Education Economics* (2022)<br>
+***Education Economics*** (2022)<br>
 Working paper version available [here](promote_honesty_2022.pdf)
 
 [**Revisiting Tax Effort in Emerging Markets**](https://journals.sagepub.com/doi/abs/10.1177/10911421221077213)<br>
 with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Maria Cecilia Deza, and [Osmel Manzano](https://sites.google.com/site/osmelmanzano/home)<br>
-*Public Finance Review* (2022)<br>
+***Public Finance Review*** (2022)<br>
 Working paper version available [here](tax_effort_2022.pdf)
 
 
 ## Chapters in Books
 **Evaluating Educational Policies in Practice**<br>
 with Vedant Bhardwaj, and María Valkov<br>
-in Economics of Education (Springer Nature, forthcoming) <br>
+in Economics of Education (***Springer Nature***, forthcoming) <br>
 Working paper version available <a href="eval_educ_policy.pdf" target="_blank" download="eval_educ_policy.pdf">here</a>
 
 ## Contributions to Policy Reports
-**Poverty and Equity Assessment in Ecuador**<br>
-World Bank, forthcoming <br>
-[**Cómo acelerar el crecimiento económico y fortalecer la clase media: Perú**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-peru)<br>
+[**Poverty and Equity Assessment in Ecuador (in Spanish)**](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099081325101538045) <br>
+***World Bank*** (2025),<br>
+[**How to accelerate economic growth and strengthen the middle class: Perú (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-peru)<br>
+***Inter-American Development Bank*** (2020)<br>
+
+[**How to accelerate economic growth and strengthen the middle class: Colombia (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-colombia)<br>
+***Inter-American Development Bank*** (2020)<br>
+
+[**How to accelerate economic growth and strengthen the middle class: Ecuador (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-ecuador)<br>
 *Inter-American Development Bank (2020)*<br>
 
-[**Cómo acelerar el crecimiento económico y fortalecer la clase media: Colombia**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-colombia)<br>
+[**How to accelerate economic growth and strengthen the middle class: Bolivia (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-bolivia)<br>
 *Inter-American Development Bank (2020)*<br>
 
-[**Cómo acelerar el crecimiento económico y fortalecer la clase media: Ecuador**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-ecuador)<br>
-*Inter-American Development Bank (2020)*<br>
-
-[**Cómo acelerar el crecimiento económico y fortalecer la clase media: Bolivia**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-bolivia)<br>
-*Inter-American Development Bank (2020)*<br>
-
-
+(in Spanish)
 
