@@ -113,5 +113,3 @@ Working paper version available <a href="eval_educ_policy.pdf" target="_blank" d
 [**How to accelerate economic growth and strengthen the middle class: Bolivia (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-bolivia)<br>
 *Inter-American Development Bank (2020)*<br>
 
-(in Spanish)
-
