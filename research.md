@@ -25,7 +25,7 @@ the United States.
 </details>
 
 ## Working Papers
-[**Family Background and Economic Mobility: Evidence from the US**](family_background.pdf)**<br>
+[**Family Background and Economic Mobility: Evidence from the US**](family_background.pdf)<br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
