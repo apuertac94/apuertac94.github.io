@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## Job Market Paper
+## Job Market Paper 
 [**Non-parametric Identification and Estimation of the Intergenerational Elasticity**](np_id_and_estimate_ige.pdf)<br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
