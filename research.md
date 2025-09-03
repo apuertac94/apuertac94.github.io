@@ -90,7 +90,7 @@ in Economics of Education (***Springer Nature***, forthcoming) <br>
 Working paper version available <a href="eval_educ_policy.pdf" target="_blank" download="eval_educ_policy.pdf">here</a>
 ## Contributions to Policy Reports
 [**Poverty and Equity Assessment in Ecuador (in Spanish)**](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099081325101538045) <br>
-***World Bank*** (2025),<br>
+***World Bank*** (2025)<br>
 [**How to accelerate economic growth and strengthen the middle class: Perú (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-peru)<br>
 ***Inter-American Development Bank*** (2020)<br>
 [**How to accelerate economic growth and strengthen the middle class: Colombia (in Spanish)**](https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-colombia)<br>
