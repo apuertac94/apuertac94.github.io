@@ -78,7 +78,7 @@ with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and Javier Beverinotti 
 [**Promoting academic honesty: a Bayesian causal analysis of an integrity pilot campaign**](https://www.tandfonline.com/doi/full/10.1080/09645292.2021.2006609)<br>
 with [Andrés Ramírez-Hassan](https://sites.google.com/view/arh-bayesian)<br>
 ***Education Economics*** (2022)<br>
-Working paper version available [here](promote_honesty_2022.pdf)
+Working paper version available [here](promote_honesty_2022.pdf)<br>
 [**Revisiting Tax Effort in Emerging Markets**](https://journals.sagepub.com/doi/abs/10.1177/10911421221077213)<br>
 with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Maria Cecilia Deza, and [Osmel Manzano](https://sites.google.com/site/osmelmanzano/home)<br>
 ***Public Finance Review*** (2022)<br>
