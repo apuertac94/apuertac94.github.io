@@ -91,7 +91,7 @@ Working paper version available <a href="eval_educ_policy.pdf" target="_blank" d
 ## Contributions to Policy Reports
 [**Poverty and Equity Assessment in Ecuador (in Spanish)**](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099081325101538045) <br>
 ***World Bank*** (2025)<br>
-**Series: How to accelerate economic growth and strengthen the middle class** (in Spanish), <strong>Inter-American Development Bank</strong> (2020), covering: 
+Series: How to accelerate economic growth and strengthen the middle class (in Spanish), ***Inter-American Development Bank***(2020), covering: 
 <a href="https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-peru">Perú</a>, 
 <a href="https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-colombia">Colombia</a>, 
 <a href="https://publications.iadb.org/es/como-acelerar-el-crecimiento-economico-y-fortalecer-la-clase-media-ecuador">Ecuador</a>, and 
