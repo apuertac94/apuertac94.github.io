@@ -19,7 +19,7 @@ permalink: /
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="photo.jpg" alt="My Photo" style="width: 300px; height: auto; border-radius: 5px;">
+    <img src="photo.jpg" alt="My Photo" style="width: 320px; height: auto; border-radius: 5px;">
   </div>
 
 </div>
