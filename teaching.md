@@ -13,7 +13,7 @@ Firm and Markets MA in Economics, Universidad EAFIT (Spring 2018) <br>
 Econometrics for Decision Making, MA in Economics, Universidad EAFIT (Fall 2017) <br>
 
 ## Undergraduate TA
-Econometrics, BSc in International Studies and Economics, UC3M (Spring 2024) <br>
+Econometrics I, BSc in International Studies and Economics, UC3M (Spring 2024) <br>
 Principles of Economics, BSc in Business and Technology, UC3M (Fall 2022) <br>
 Regional and Urban Economics, BSc in Economics, UC3M (Fall 2021) <br>
 Public Economics, BSc in Law and Economics, UC3M (Fall 2021) <br>
