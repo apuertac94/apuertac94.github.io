@@ -1,12 +1,21 @@
-title: Alejandro Puerta-Cuartas
+# Site settings
+title: "Alejandro Puerta | Alejandro Puerta-Cuartas"
+description: "Alejandro Puerta (Alejandro Puerta-Cuartas), PhD student in Economics at UC3M. Research: applied econometrics, intergenerational mobility, development."
 email: alpuerta@eco.uc3m.es
 url: "https://apuertac94.github.io"
 github_username: apuertac94 
+
+# Theme
 theme: minima
+
+# Plugins
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag 
+
+# Header pages (shown in navigation)
 header_pages:
   - cv.md
   - research.md
   - teaching.md
+
