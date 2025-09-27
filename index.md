@@ -13,8 +13,9 @@ permalink: /
     <ul>
       <li>I will be on the 2025/26 Job Market.</li>
       <li>This fall, I am visiting the <a href="https://www.lse.ac.uk/international-inequalities">International Inequalities Institute</a> at the London School of Economics.</li>
+      <li>[On the Effects of Wildfires on Poverty in Bolivia](https://www.sciencedirect.com/science/article/pii/S0304387825000458) is now <strong>published in Journal of Development Economics</strong>.</li>
       <li>Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador is now <strong>R&R at World Development</strong>.</li>
-      <li>I will present my job market paper at The III at 10: New Directions in Inequality Research (LSE), the Econometrics Brown Bag Seminar (UCL), and the Simposio de la Asociación Española de Economía (Universitat Autònoma de Barcelona).</li>
+      <li>This fall, I’ll present at The III at 10: New Directions in Inequality Research (LSE), the Econometrics Brown Bag Seminar (UCL), the Simposio de la Asociación Española de Economía (Universitat Autònoma de Barcelona), and the SMOOTHIE Seminar Series (LSE).</li>
     </ul>
   </div>
 
