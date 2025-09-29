@@ -5,21 +5,21 @@ permalink: /
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-
-  <!-- Welcome text section aligned with photo -->
-  <div style="flex: 2; min-width: 500px;">
+  
+  <!-- Text on the LEFT -->
+  <div style="flex: 1; min-width: 400px;">
     Welcome to my personal webpage. I am a PhD student in Economics at Universidad Carlos III de Madrid. I am an applied econometrician whose research focuses on intergenerational mobility, with a complementary interest in theoretical econometrics and broader applications in development economics.
   </div>
 
-  <!-- Photo section -->
+  <!-- Photo on the RIGHT -->
   <div style="flex-shrink: 0;">
     <img src="photo.jpg" alt="My Photo" style="width: 250px; height: auto; border-radius: 5px;">
   </div>
-
+  
 </div>
 
-<!-- News section below both welcome text and photo -->
-<div style="margin-top: 20px;">
+<!-- News BELOW both text and photo -->
+<div>
   <p><em>News</em></p>
   <ul>
     <li>I will be on the 2025/26 Job Market.</li>
