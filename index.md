@@ -6,7 +6,7 @@ permalink: /
 
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1; min-width: 450px;">
     Welcome to my personal webpage. I am a PhD student in Economics at Universidad Carlos III de Madrid. I am an applied econometrician whose research focuses on intergenerational mobility, with a complementary interest in theoretical econometrics and broader applications in development economics.<br>
 
     <p><em>News</em></p>
