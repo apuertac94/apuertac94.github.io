@@ -16,5 +16,4 @@
   <div style="flex-shrink: 0; height: 100%;">
     <img src="photo.jpg" alt="My Photo" style="width: 320px; height: 100%; object-fit: cover; border-radius: 5px;">
   </div>
-
 </div>
