@@ -1,6 +1,12 @@
-<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: stretch;">
+---
+layout: default
+title: Home
+permalink: /
+---
 
-  <div style="flex: 1; min-width: 250px; text-align: justify; height: 100%;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1 1 500px; min-width: 250px; text-align: justify;">
     Welcome to my personal webpage. I am a PhD student in Economics at Universidad Carlos III de Madrid. I am an applied econometrician whose research focuses on intergenerational mobility, with a complementary interest in theoretical econometrics and broader applications in development economics.<br>
 
     <p><em>News</em></p>
@@ -13,7 +19,9 @@
     </ul>
   </div>
 
-  <div style="flex-shrink: 0; height: 100%;">
-    <img src="photo.jpg" alt="My Photo" style="width: 320px; height: 100%; object-fit: cover; border-radius: 5px;">
+  <div style="flex-shrink: 0;">
+    <img src="photo.jpg" alt="My Photo" style="width: 320px; height: auto; border-radius: 5px;">
   </div>
+
 </div>
+
