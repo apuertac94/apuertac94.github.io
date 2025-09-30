@@ -8,8 +8,7 @@ permalink: /
   <div style="flex: 1; min-width: 250px; max-width: 700px; display: flex; flex-direction: column;">
     <p style="margin-bottom: 1.2em;">
       Welcome to my personal webpage. I am a PhD student in Economics at Universidad Carlos III de Madrid. 
-      I am an applied econometrician whose research focuses on intergenerational mobility, with a complementary 
-      interest in theoretical econometrics and broader applications in development economics.
+      I am an applied econometrician whose research focuses on intergenerational mobility, complemented by a strong interest in theoretical econometrics and broader applications in development economics.
     </p>
 
     <p style="margin-bottom: 1.2em;">
@@ -18,7 +17,7 @@ permalink: /
       at the London School of Economics.
     </p>
 
-    <div style="margin-top: auto;">
+   <div style="margin-top: auto; padding-top: 2em;">
       <p><em>News</em></p>
       <ul style="margin-left: 1em; line-height: 1.6;">
         <li style="margin-bottom: 0.6em;">I will be on the 2025/26 Job Market.</li>
@@ -41,7 +40,7 @@ permalink: /
   </div>
 
   <div style="flex-shrink: 0;">
-  <img src="photo.jpg" alt="My Photo" style="width: 240px; height: auto; border-radius: 5px;">
+  <img src="photo.jpg" alt="My Photo" style="width: 210px; height: auto; border-radius: 5px;">
   </div>
 
 </div>
