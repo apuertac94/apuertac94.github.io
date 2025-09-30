@@ -7,8 +7,8 @@ permalink: /
 
   <div style="flex: 1; min-width: 250px; max-width: 700px; display: flex; flex-direction: column;">
     <p style="margin-bottom: 1.2em;">
-      Welcome to my personal webpage. I am a PhD student in Economics at Universidad Carlos III de Madrid. 
-      I am an applied econometrician whose research focuses on intergenerational mobility, complemented by a strong interest in theoretical econometrics and broader applications in development economics.
+      Welcome to my personal webpage. I am a PhD candidate in Economics at <a href="https://economics.uc3m.es/">Universidad Carlos III de Madrid</a>. 
+      I am an applied econometrician whose research focuses on intergenerational mobility, complemented by a strong interest in theoretical econometrics and broader applications in development economics. My thesis develops econometric tools to study intergenerational income mobility, integrating locally robust, semi-parametric inference with machine learning.
     </p>
 
     <p style="margin-bottom: 1.2em;">
@@ -16,8 +16,14 @@ permalink: /
       <a href="https://www.lse.ac.uk/international-inequalities">International Inequalities Institute</a> 
       at the London School of Economics.
     </p>
+    <p style="margin-bottom: 1.2em;">
+      You can contact me at 
+  <a href="mailto:alpuerta@eco.uc3m.es">alpuerta@eco.uc3m.es</a> 
+  or 
+  <a href="mailto:A.Puerta-Cuartas@lse.ac.uk">A.Puerta-Cuartas@lse.ac.uk</a>.
+    </p>
 
-   <div style="margin-top: auto; padding-top: 3em;">
+   <div style="margin-top: auto; padding-top: 2em;">
       <p><em>News</em></p>
       <ul style="margin-left: 1em; line-height: 1.6;">
         <li style="margin-bottom: 0.6em;">I will be on the 2025/26 Job Market.</li>
