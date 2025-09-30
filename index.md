@@ -14,7 +14,7 @@ permalink: /
     <p style="margin-bottom: 1.2em;">
       Currently, I am a visiting research student in the 
       <a href="https://www.lse.ac.uk/international-inequalities">International Inequalities Institute</a> 
-      at the London School of Economics.
+      at the <a href="https://www.lse.ac.uk/">London School of Economics</a>.
     </p>
     <p style="margin-bottom: 1.2em;">
       You can contact me at 
