@@ -23,7 +23,7 @@ permalink: /
   <a href="mailto:A.Puerta-Cuartas@lse.ac.uk">A.Puerta-Cuartas@lse.ac.uk</a>.
     </p>
 
-   <div style="margin-top: auto; padding-top: 2em;">
+   <div style="margin-top: auto; padding-top: 1em;">
       <p><em>News</em></p>
       <ul style="margin-left: 1em; line-height: 1.6;">
         <li style="margin-bottom: 0.6em;">I will be on the 2025/26 Job Market.</li>
@@ -46,7 +46,7 @@ permalink: /
   </div>
 
   <div style="flex-shrink: 0;">
-  <img src="photo.jpg" alt="My Photo" style="width: 210px; height: auto; border-radius: 5px;">
+  <img src="photo.jpg" alt="My Photo" style="width: 240px; height: auto; border-radius: 5px;">
   </div>
 
 </div>
