@@ -8,7 +8,7 @@ permalink: /
   <div style="flex: 1; min-width: 250px; max-width: 700px; display: flex; flex-direction: column;">
     <p style="margin-bottom: 1.2em;">
       Welcome to my personal webpage. I am a PhD candidate in Economics at <a href="https://economics.uc3m.es/">Universidad Carlos III de Madrid</a>. 
-      I am an applied econometrician whose research focuses on intergenerational mobility, complemented by a strong interest in theoretical econometrics and broader applications in development economics. My thesis develops econometric tools to study intergenerational income mobility, integrating locally robust, semi-parametric inference with machine learning.
+      I am an applied econometrician whose research focuses on intergenerational mobility, complemented by a strong interest in theoretical econometrics and broader applications in development economics. My thesis develops tools to study intergenerational income mobility, integrating locally robust, semi-parametric inference with machine learning.
     </p>
 
     <p style="margin-bottom: 1.2em;">
