@@ -17,7 +17,7 @@ permalink: /
       at the London School of Economics.
     </p>
 
-   <div style="margin-top: auto; padding-top: 2em;">
+   <div style="margin-top: auto; padding-top: 3em;">
       <p><em>News</em></p>
       <ul style="margin-left: 1em; line-height: 1.6;">
         <li style="margin-bottom: 0.6em;">I will be on the 2025/26 Job Market.</li>
