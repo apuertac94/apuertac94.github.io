@@ -26,7 +26,7 @@ permalink: /
    <div style="margin-top: auto; padding-top: 1em;">
       <p><em>News</em></p>
       <ul style="margin-left: 1em; line-height: 1.6;">
-        <li style="margin-bottom: 0.6em;">I will be on the 2025/26 Job Market.</li>
+        <li style="margin-bottom: 0.6em;">I am on the 2025/26 Job Market.</li>
         <li style="margin-bottom: 0.6em;">
           <a href="https://www.sciencedirect.com/science/article/pii/S0304387825000458">
             On the Effects of Wildfires on Poverty in Bolivia
