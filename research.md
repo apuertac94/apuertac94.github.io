@@ -9,18 +9,7 @@ permalink: /research/
 <details style="margin-top: -0.5em;"> 
   <summary>Abstract</summary>
 <div style="text-align: justify;">
-The intergenerational elasticity (IGE) has traditionally served as the
-primary measure of income persistence across generations. However, its
-estimation has long been hindered by the unobservability of lifetime income.
-We address this challenge by first establishing the nonparametric
-identification of the IGE, leveraging family characteristics and partial
-income data under standard missing-at-random assumptions. Building
-on this foundation, we derive a consistent and locally robust estimator
-using Neyman orthogonal moments that delivers valid inference. Our
-framework enables comparable IGE estimates across time and place,
-resolving long-standing challenges in identification and inference. Using
-the Panel Study of Income Dynamics, we estimate an IGE of 0.69 for
-the United States.
+The unobservability of lifetime income poses a fundamental challenge for estimating the intergenerational elasticity (IGE), forcing researchers to rely on annual income averages. We show that such proxy-based estimators converge to context-specific limits, compromising comparability across studies. To address this, we establish nonparametric identification of the IGE using partial income data and family characteristics. Building on this foundation, we construct a consistent two-step estimator that combines machine learning with cross-fitting and Neyman-orthogonal moments, ensuring that the resulting IGE estimates are locally robust to first-stage errors. This approach delivers valid inference and overcomes long-standing challenges in achieving comparability of IGE estimates across studies, time, and place. Applying it to the Panel Study of Income Dynamics, proxy-based estimators yield values of 0.38 and 0.51 for the United States, while our method produces an estimate of 0.69, in line with evidence from long-run parental income averages indicating that the true value exceeds 0.6.
 </div>
 </details>
 
@@ -87,7 +76,7 @@ Working paper version available [here](tax_effort_2022.pdf)
 **Evaluating Educational Policies in Practice**<br>
 with Vedant Bhardwaj, and María Valkov<br>
 in Economics of Education (***Springer Nature***, forthcoming) <br>
-Working paper version available <a href="eval_educ_policy.pdf" target="_blank" download="eval_educ_policy.pdf">here</a>
+<!--Working paper version available <a href="eval_educ_policy.pdf" target="_blank" download="eval_educ_policy.pdf">here</a>--> 
 ## Contributions to Policy Reports
 [**Poverty and Equity Assessment in Ecuador (in Spanish)**](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099081325101538045) <br>
 ***World Bank*** (2025)<br>
