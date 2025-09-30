@@ -1,21 +1,24 @@
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+---
+layout: default
+title: Home
+permalink: /
+---
+<div style="display: flex; align-items: stretch; gap: 20px; flex-wrap: nowrap;">
 
-  <div style="flex: 1; min-width: 250px; max-width: 700px; display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <p style="margin-bottom: 1.2em;">
-        Welcome to my personal webpage. I am a PhD student in Economics at Universidad Carlos III de Madrid. 
-        I am an applied econometrician whose research focuses on intergenerational mobility, with a complementary 
-        interest in theoretical econometrics and broader applications in development economics.
-      </p>
+  <div style="flex: 1; min-width: 250px; max-width: 700px; display: flex; flex-direction: column;">
+    <p style="margin-bottom: 1.2em;">
+      Welcome to my personal webpage. I am a PhD student in Economics at Universidad Carlos III de Madrid. 
+      I am an applied econometrician whose research focuses on intergenerational mobility, with a complementary 
+      interest in theoretical econometrics and broader applications in development economics.
+    </p>
 
-      <p style="margin-bottom: 1.2em;">
-        Currently, I am a visiting research student in the 
-        <a href="https://www.lse.ac.uk/international-inequalities">International Inequalities Institute</a> 
-        at the London School of Economics.
-      </p>
-    </div>
+    <p style="margin-bottom: 1.2em;">
+      Currently, I am a visiting research student in the 
+      <a href="https://www.lse.ac.uk/international-inequalities">International Inequalities Institute</a> 
+      at the London School of Economics.
+    </p>
 
-    <div>
+    <div style="margin-top: auto;">
       <p><em>News</em></p>
       <ul style="margin-left: 1em; line-height: 1.6;">
         <li style="margin-bottom: 0.6em;">I will be on the 2025/26 Job Market.</li>
@@ -42,5 +45,6 @@
   </div>
 
 </div>
+
 
 
