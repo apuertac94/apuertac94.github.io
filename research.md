@@ -73,9 +73,7 @@ with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Maria Cecilia Deza, an
 ***Public Finance Review*** (2022)<br>
 Working paper version available [here](tax_effort_2022.pdf)
 ## Chapters in Books
-[**Evaluating Educational Policies in Practice**](https://link.springer.com/chapter/10.1007/978-3-031-90911-5_3)<br>
-with [Vedant Bhardwaj](#) and [María Valkov](#) <br>
-***Economics of Education***, Springer Nature (2025) <br>
+[**Evaluating Educational Policies in Practice**](https://www.amazon.com/-/es/Economics-Education-Introductory-Antonio-Cabrales/dp/3031909100/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3UPR1S5RTUTCW&dib=eyJ2IjoiMSJ9.e0rH3W3e3wD-J_JFpQeVcBhT0diLdP3VpK5ERQSqmxdbL5KoC3nLTCTifIwi3Y9xBNUL5PpA7vUYsMYVE-He8NDYJd6pg4dqQz_6yTTN5kyVTXu1B9uVBON2MRQ4lpXPv8VHAg4QMXBqlz56tSH5zVulPI63USnCer3PvbW3FjQZStGDbX0O5Z_YbMn7p4Amu7oSNH2CCHp8VjHuinpC5zXqR5befsN4Kdn9TUPAs-o.QfxaO6Kx_dskoCKd8KgjxlYImkpMbT-vy9rDcC9C2zk&dib_tag=se&keywords=Economics+of+Education%3A+An+Introductory+Textbook&qid=1759228471&s=books&sprefix=%2Cstripbooks-intl-ship%2C310&sr=1-1)<br>
 <!--Working paper version available <a href="eval_educ_policy.pdf" target="_blank" download="eval_educ_policy.pdf">here</a>--> 
 ## Contributions to Policy Reports
 [**Poverty and Equity Assessment in Ecuador (in Spanish)**](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099081325101538045) <br>
