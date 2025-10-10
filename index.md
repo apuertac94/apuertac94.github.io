@@ -30,7 +30,7 @@ permalink: /
     <li style="margin-bottom: 0.6em;">
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-90911-5_3">
         Evaluating Educational Policies in Practice
-      </a> (with Vedant Bhardwaj and María Valkov) is now 
+      </a> is now 
       <strong>published in <em>Economics of Education</em> (Springer Nature)</strong>.
     </li>
     <li style="margin-bottom: 0.6em;">
