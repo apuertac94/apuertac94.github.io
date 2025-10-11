@@ -55,7 +55,7 @@ household distinction.
 </div>
 </details>
 [**An Inferential Framework to Reduce Climate Risk**](Poverty_Vulnerability.pdf)<br>
-with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Carlos Rodriguez-Castelán, and [Carolina Vélez-Ospina <br>
+with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Carlos Rodriguez-Castelán, and Carolina Vélez-Ospina <br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
