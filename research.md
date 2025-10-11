@@ -14,6 +14,27 @@ The unobservability of lifetime income poses a fundamental challenge for estimat
 </details>
 
 ## Working Papers
+[**Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador**](here_comes_the_rain.pdf)<br>
+R&R at ***World Development***<br>
+<details style="margin-top: -0.5em;">
+  <summary>Abstract</summary>
+<div style="text-align: justify;">
+This paper examines the heterogeneous effect of precipitation shocks on poverty status in
+Ecuador. Using gridded monthly precipitation data from 2007 to 2021, we define measures
+for the excess and deficit in precipitation levels at the parish geographical level. Weather
+data are merged with household socioeconomic information derived from the National Survey
+of Employment, Unemployment, and Underemployment (ENEMDU). Our empirical findings
+reveal that both excess and deficit in precipitation significantly affect poverty status, with
+considerable heterogeneity across economic sectors. Variations in the Standardized Precipitation
+Index, whether positive or negative, lead to an increased probability of poverty among
+workers in the primary sector. In contrast, we find poverty-reducing effects in the secondary
+and tertiary sectors, with their magnitude being shaped by formality status, urban/rural location,
+and self-employment status. The analysis identifies per-capita household income and
+labor earnings as key transmission channels, with precipitation shocks having redistributive
+effects on labor income in the tertiary sector, while amplifying inequality in the primary
+sector.
+</div>
+</details>
 [**Family Background and Economic Mobility: Evidence from the US**](family_background.pdf)<br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
@@ -39,27 +60,6 @@ with [Gustavo Canavire-Bacarreza](https://gcanavire.com), Carlos Rodriguez-Caste
   <summary>Abstract</summary>
 <div style="text-align: justify;">
 With the increase of climatic shocks, quantifying their impact on vulnerability to poverty has gained significant attention. This paper extends the simulation approach to climate vulnerability of Hill and Porter (2017) for the design of targeted, place-based public policies to prevent and mitigate climate risk. We propose using SHAP values to characterize the most vulnerable to climate shocks and estimate the heterogeneous impact of specific climate shocks on poverty vulnerability. We illustrate our approach empirically by considering Ecuador, a biodiverse country with high exposure to climate risk and vulnerability. Our analysis reveals that the vulnerable are mostly informal individuals, working in the primary sector, and living in rural areas, located in the Amazonian Region, which motivates implementing a targeted place-based formalization policy. Our analysis highlights the importance of implementing preventive measures in Imbabura and Pastaza. While the former ranks among the three provinces most affected by droughts and floods, the latter is one of the most affected by maximum temperatures and droughts.
-</div>
-</details>
-[**Here Comes the Rain: Weather Shocks and Economic Outcomes in Ecuador**](here_comes_the_rain.pdf)<br>
-R&R at ***World Development***<br>
-<details style="margin-top: -0.5em;">
-  <summary>Abstract</summary>
-<div style="text-align: justify;">
-This paper examines the heterogeneous effect of precipitation shocks on poverty status in
-Ecuador. Using gridded monthly precipitation data from 2007 to 2021, we define measures
-for the excess and deficit in precipitation levels at the parish geographical level. Weather
-data are merged with household socioeconomic information derived from the National Survey
-of Employment, Unemployment, and Underemployment (ENEMDU). Our empirical findings
-reveal that both excess and deficit in precipitation significantly affect poverty status, with
-considerable heterogeneity across economic sectors. Variations in the Standardized Precipitation
-Index, whether positive or negative, lead to an increased probability of poverty among
-workers in the primary sector. In contrast, we find poverty-reducing effects in the secondary
-and tertiary sectors, with their magnitude being shaped by formality status, urban/rural location,
-and self-employment status. The analysis identifies per-capita household income and
-labor earnings as key transmission channels, with precipitation shocks having redistributive
-effects on labor income in the tertiary sector, while amplifying inequality in the primary
-sector.
 </div>
 </details>
 ## Publications   
