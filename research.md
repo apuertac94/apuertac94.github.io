@@ -5,11 +5,12 @@ permalink: /research/
 ---
 
 ## Job Market Paper 
-[**Non-parametric Identification and Locally Robust Estimation of the Intergenerational Elasticity**](np_id_and_estimate_ige.pdf)<br>
+[**Nonparametric Identification and Locally Robust Estimation
+of Intergenerational Income Mobility Measures**](np_id_and_estimate_ige.pdf)<br>
 <details style="margin-top: -0.5em;"> 
   <summary>Abstract</summary>
 <div style="text-align: justify;">
-Measuring the intergenerational transmission of lifetime economic status is complicated by researchers often only observing snapshots of income at specific ages. Consequently, standard practice estimates the intergenerational elasticity (IGE) using income averages, introducing life-cycle bias that compromises reliability and comparability across studies, time, and place. We address this long-standing challenge by proving the IGE is nonparametrically identified from incomplete income data and family characteristics under standard missing-at-random and testable orthogonality conditions. Building on this result, we construct a debiased machine learning estimator based on Neyman-orthogonal moments that eliminates life-cycle bias. Using the Panel Study of Income Dynamics across birth cohorts from 1954 to 1977 with rolling 10-year windows, we show that conventional approaches estimate the U.S. IGE between 0.41 and 0.54 while our estimator yields substantially higher values of 0.6 to 0.7, averaging 0.64. These estimates align closely with recent evidence using long-time income averages over mid-career periods, reinforcing high U.S. intergenerational persistence. 
+Measuring the intergenerational transmission of lifetime economic status is complicated by researchers often only observing snapshots of income at specific ages. Consequently, standard practice estimates intergenerational mobility using income averages, introducing life-cycle bias that compromises reliability and comparability across studies, time, and place. I develop a missing data framework that exploits available income data and observable characteristics to eliminate life-cycle bias. This method combines nonparametric identification with Neyman-orthogonal moments to construct debiased machine learning estimators for intergenerational income mobility measures under plausible missing-at-random and testable independence assumptions. I apply this framework to estimate the intergenerational elasticity for the U.S. using the Panel Study of Income Dynamics across birth cohorts from 1954 to 1977 with rolling 10-year windows. While existing approaches estimate values between 0.41 and 0.54, the proposed method yields substantially higher estimates ranging from 0.6 to 0.7, averaging 0.64. These results align closely with recent evidence using long time averages over mid-career periods, reinforcing high U.S. intergenerational persistence. 
 </div>
 </details>
 
