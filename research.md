@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## Job Market Paper 
-[**Nonparametric Identification and Locally Robust Estimation
+[**Identification and Estimation
 of Intergenerational Income Mobility Measures**](/np_id_and_estimate_ige.pdf)<br>
 <details style="margin-top: -0.5em;"> 
   <summary>Abstract</summary>
