@@ -10,9 +10,7 @@ permalink: /
       I am an applied econometrician whose research focuses on intergenerational mobility, complemented by a strong interest in theoretical econometrics and broader applications in development economics. My thesis develops methods to study intergenerational income mobility, integrating locally robust, semi-parametric inference with machine learning. 
     </p>
     <p style="margin-bottom: 1.2em;">
-      Currently, I am a visiting research student in the 
-      <a href="https://www.lse.ac.uk/international-inequalities">International Inequalities Institute</a> 
-      at the <a href="https://www.lse.ac.uk/">London School of Economics and Political Science</a>.
+      I am on the 2025/26 Job Market. Here's my [**Job Market Paper**](/np_id_and_estimate_ige.pdf)
     </p>
     <p style="margin-bottom: 1.2em;">
       You can contact me at 
@@ -23,7 +21,6 @@ permalink: /
     <div style="margin-top: auto; padding-top: 1em;">
       <p><em>News</em></p>
       <ul style="margin-left: 1em; line-height: 1.6;">
-        <li style="margin-bottom: 0.6em;">I am on the 2025/26 Job Market.</li>
         <li style="margin-bottom: 0.6em;">
           <a href="https://link.springer.com/chapter/10.1007/978-3-031-90911-5_3">
             Evaluating Educational Policies in Practice
