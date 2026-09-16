@@ -47,6 +47,7 @@ This paper proposes a nonparametric simulation framework to estimate poverty vul
 ## Publications
 
 [**Here Comes the Rain: Precipitation Shocks and Economic Outcomes in Ecuador**](https://www.sciencedirect.com/science/article/pii/S0305750X26001579)<br>
+with [Gustavo Canavire-Bacarreza](https://gcanavire.com) and [Andrey Ramos](https://anramosr.github.io/)<br>
 ***World Development*** (2026)<br>
 
 [**On the Effects of Wildfires on Poverty in Bolivia**](https://www.sciencedirect.com/science/article/pii/S0304387825000458)<br>
