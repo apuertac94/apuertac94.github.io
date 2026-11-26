@@ -17,7 +17,7 @@ Measuring the intergenerational transmission of lifetime economic status is comp
 
 [**Locally Robust Inference with Outcomes Predicted by Machine Learning**](https://arxiv.org/abs/2610.21756)<br>
 with Juan Carlos Escanciano<br>
-***arXiv:2610.21756***<br>
+***ArXiv***<br>
 <details style="margin-top: -0.5em;">
   <summary>Abstract</summary>
 <div style="text-align: justify;">
