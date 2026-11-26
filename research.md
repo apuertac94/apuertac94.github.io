@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Working Papers
 
-[**Identification and Estimation of Intergenerational Income Mobility Measures**](https://researchonline.lse.ac.uk/id/eprint/141991/m)<br>
+[**Identification and Estimation of Intergenerational Income Mobility Measures**](https://researchonline.lse.ac.uk/id/eprint/141991)<br>
 ***III Working Paper 181***, International Inequalities Institute, London School of Economics<br>
 <details style="margin-top: -0.5em;"> 
   <summary>Abstract</summary>
